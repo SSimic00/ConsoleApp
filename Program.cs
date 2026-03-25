@@ -9,6 +9,7 @@ namespace ConsoleApp
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Novo");
             Console.WriteLine("nova linija koda");
+            Console.WriteLine("ispravka");
         }
     }
 }
