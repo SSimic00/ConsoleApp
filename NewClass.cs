@@ -8,5 +8,8 @@ namespace ConsoleApp
 {
     internal class NewClass
     {
+        public void NovaMetoda()
+        {
+        }
     }
 }
